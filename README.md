@@ -24,7 +24,9 @@ Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like m
 
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [01_Photograph.ipynb](01_Photograph.ipynb).*
 
-load a photograph
+If you wish to work on your local machine check the **Environment** section at the end of this README.
+
+- load a photograph
 - Plot the data 
 - Calculate the min, max and median values, the mean and the standard deviation
 - Calculate the % of values= 0, and the % of values <= 1
@@ -36,4 +38,22 @@ load a photograph
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02_climate_variables.ipynb](02_climate_variables.ipynb).*
 
 
-If you wish to work on your local machine check the **Environment** section at the end of this README.
+- Load an example dataset
+- Plot with xarray
+- Select data / Make mask
+- Resample / Groupby
+- Computation (climatology, seasons, etc.)
+- Weighted average
+- Make projected plots (cartopy / proplot)
+- Calculate trends 
+- Calculate correlation 
+- Plot time series
+
+## Environment
+
+Note that we will be working with an already pre-installed environment with [binder](https://mybinder.org/). If you want to install the same environment on your machine, you can do it directly by typing the command `conda env create -f environment.yml` using the environment file [environment.yml](environment.yml) from this repository. You need to have [Anaconda](https://www.anaconda.com/products/individual) or [Minconda](https://docs.conda.io/en/latest/miniconda.html) already pre-installed on your machine. If not, for Linux users, you can check this []() For managing your conda environments always come back to the official documentation: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file.
+
+The package versions can be found in the [environment.yml](environment.yml) file. Be careful if you want to upgrade this environment, because there are often conflicts between some packages (e.g., version 0.6.4 of proplot does not work with version 3.3 of matplotlib, or cartopy does not work with the latest version 3.9 of python... but this can have already evolved at the time of this session). Be particularly careful with Proplot which is a package under development and which evolves very quickly, including changes of syntax, thus refer to version 0.6.4 for these practical works: https://proplot.readthedocs.io/en/v0.6.4/.
+
+
+
