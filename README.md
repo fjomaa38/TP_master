@@ -1,10 +1,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fjomaa38/TP_master.git/main)
 ##  Introduction to data analysis and python
 
-Targeted group: master students (begginers in programming) 
+--> Targeted group: master students (begginers in programming) 
+
+--> Concepts addressed: basic descriptive statistics (mean, standard deviation, inter / intra-group, histogram)
 
 This practical work will be divided into two parts:
-> 1) Statistical processing of photographic
+> 1) Statistical processing of photographic data
 > 2) Analysing atmospheric data (Temperature and precipitation)
 
 For this we will use several classic Python packages:
@@ -16,12 +18,10 @@ For this we will use several classic Python packages:
 - [[cartopy](https://scitools.org.uk/cartopy/docs/latest/)]: replace basemap, back-end for map projections
 - [[proplot](https://proplot.readthedocs.io/en/stable/)]: a lightweight matplotlib wrapper for making beautiful, publication-quality graphics (still under development)
 
-###  1) Statistical processing of photographic
+## 1. Statistical processing of photographic
 
-Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like many other sensors, and 2<sup>nd</sup> a non-zero level even when they are black, which calls *"dark current"*.
+Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like many other sensors, and 2<sup>nd</sup> a non-zero level even when they are black, which calls *"dark current"*.We will try to measure this level on the cameras of your cell phones.
 
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [01_Photograph.ipynb](01_Photograph.ipynb).*
-We will try to measure this level on the cameras of your cell phones.
-
 
 If you wish to work on your local machine check the **Environment** section at the end of this README.
