@@ -33,7 +33,7 @@ load a photograph
 
 ## 2. Statistical Analysis of Atospheric data
 
-*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02.ipynb](02_ipynb).*
+*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02_climate_variables.ipynb](02_climate_variables.ipynb).*
 
 
 If you wish to work on your local machine check the **Environment** section at the end of this README.
