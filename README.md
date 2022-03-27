@@ -18,7 +18,7 @@ For this we will use several classic Python packages:
 - [[cartopy](https://scitools.org.uk/cartopy/docs/latest/)]: replace basemap, back-end for map projections
 - [[proplot](https://proplot.readthedocs.io/en/stable/)]: a lightweight matplotlib wrapper for making beautiful, publication-quality graphics (still under development)
 
-## 1. Statistical processing of photographic
+## 1. Statistical processing of photographic data
 
 Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like many other sensors, and 2<sup>nd</sup> a non-zero level even when they are black, which calls *"dark current"*.We will try to measure this level on the cameras of your cell phones.
 
