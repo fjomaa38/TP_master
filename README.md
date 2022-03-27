@@ -24,4 +24,16 @@ Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like m
 
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [01_Photograph.ipynb](01_Photograph.ipynb).*
 
+load a photograph
+- Plot the data 
+- Calculate the min, max and median values, the mean and the standard deviation
+- Calculate the % of values= 0, and the % of values <= 1
+- Plot histograms
+- Analyze and interpret the results
+
+## 2. Statistical Analysis of Atospheric data
+
+*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02.ipynb](02_ipynb).*
+
+
 If you wish to work on your local machine check the **Environment** section at the end of this README.
