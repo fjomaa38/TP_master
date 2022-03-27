@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fjomaa38/TP_master.git/main)
 ##  Introduction to data analysis and python
 
 Targeted group: master students (begginers in programming) 
