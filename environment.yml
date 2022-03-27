@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.8.5
+  - imageio=2.16.1
   - xarray=0.19.0
   - pooch=1.5.2 # for xarray tutorial functions
   - nc-time-axis=1.4.0 # to deal with some time axis
