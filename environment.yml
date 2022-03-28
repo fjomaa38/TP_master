@@ -1,4 +1,6 @@
 name: TP_master 2022
+# Not all libraries are used in this TP!
+# 
 channels:
   - conda-forge
   - defaults
@@ -11,14 +13,12 @@ dependencies:
   - proplot=0.6.4
   - matplotlib=3.2.0
   - cartopy=0.17.0
-  - intake-esm=2020.6.11 # get CMIP6 data
   - xesmf=0.3.0 # regrid
   - isort
   - esmpy=8.0.1
   - black
   - nbresuse # to see RAM
   - nodejs[version='>=10.0'] # for jupyterlab
-  - python-graphviz # for dask visualization
   - dask # for parallelization
   - nb_conda_kernels # allow changing kernel in a notebook
   - netcdf4
@@ -26,5 +26,4 @@ dependencies:
   - jupyterlab
   - jupyter
   - gcsfs # Google Cloud (for intake-esm)
-  - zarr # similar to netCDF but more performant (for intake also)
-  - cdsapi # usefull to access copernicus data store directly
+
