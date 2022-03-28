@@ -40,14 +40,13 @@ If you wish to work on your local machine check the **Environment** section at t
 
 - Load an example dataset
 - Plot with xarray
-- Select data / Make mask
 - Resample / Groupby
 - Computation (climatology, seasons, etc.)
-- Weighted average
 - Make projected plots (cartopy / proplot)
-- Calculate trends 
-- Calculate correlation 
-- Plot time series
+- Calculate trends and significance
+- Calculate correlation between max and min
+- Calculate the snowy days and plot the time series
+- Plot time series 
 
 ## Environment
 
