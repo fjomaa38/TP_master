@@ -33,7 +33,7 @@ If you wish to work on your local machine check the **Environment** section at t
 - Plot histograms
 - Analyze and interpret the results
 
-## 2. Statistical Analysis of Atospheric data
+## 2. Statistical Analysis of Atmospheric data
 
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02_climate_variables.ipynb](02_climate_variables.ipynb).*
 
