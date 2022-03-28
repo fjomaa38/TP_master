@@ -22,7 +22,7 @@ For this we will use several classic Python packages:
 
 Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like many other sensors, and 2<sup>nd</sup> a non-zero level even when they are black, which calls *"dark current"*.We will try to measure this level on the cameras of your cell phones.
 
-*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [01_Photograph.ipynb](01_Photograph.ipynb).*
+*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [01_Photograph.ipynb](01_photograph.ipynb).
 
 If you wish to work on your local machine check the **Environment** section at the end of this README.
 
