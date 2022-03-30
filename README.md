@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fjomaa38/TP_master.git/main)
-##  Introduction to data analysis and python
+## Instrumentation and meteorology: Introduction to data analysis and python
 
 --> Targeted group: master students (begginers in programming) 
 
@@ -26,11 +26,14 @@ Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like m
 
 If you wish to work on your local machine check the **Environment** section at the end of this README.
 
-- load a photograph
-- Plot the data 
-- Calculate the min, max and median values, the mean and the standard deviation
-- Calculate the % of values= 0, and the % of values <= 1
-- Plot histograms
+Overview of tasks:
+- Load a colored photograph
+- Access image properties (size,shape,indices)
+- Copy/Paste objects within the photo
+- Change colors
+- Plot the three channel's data (histograms)
+- Statistical analysis (min, max, median, mean, standard deviation)
+- Calculate the % of black and white colors for each channel
 - Analyze and interpret the results
 
 ## 2. Statistical Analysis of Atmospheric data
