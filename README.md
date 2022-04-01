@@ -27,7 +27,7 @@ Most optical sensors have two defects: 1<sup>st</sup> a *"thermal"* noise like m
 If you wish to work on your local machine check the **Environment** section at the end of this README.
 
 Overview of tasks:
-- Load a colored photograph
+- Load a colored/black photograph
 - Access image properties (size,shape,indices)
 - Copy/Paste objects within the photo
 - Change colors
