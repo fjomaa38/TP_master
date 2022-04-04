@@ -49,7 +49,6 @@ Overview of tasks:
 - Calculate trends and significance
 - Calculate correlation between max and min
 - Calculate the snowy days and plot the time series
-- Plot time series 
 
 ## Environment
 
