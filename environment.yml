@@ -11,13 +11,13 @@ dependencies:
   - pooch=1.5.2 # for xarray tutorial functions
   - nc-time-axis=1.4.0 # to deal with some time axis
   - statsmodels
-  - proplot=0.6.4
+  #- proplot=0.6.4
   - matplotlib=3.2.0
   - cartopy=0.17.0
-  - xesmf=0.3.0 # regrid
+  # - xesmf=0.3.0 # regrid
   - isort
   - esmpy=8.0.1
-  - black
+  #- black
   - nbresuse # to see RAM
   - nodejs[version='>=10.0'] # for jupyterlab
   - dask # for parallelization
