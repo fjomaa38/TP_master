@@ -1,6 +1,5 @@
 
 ## Instrumentation and meteorology: Introduction to data analysis and python
-
---> Targeted group: master students (begginers in programming) 
-
---> Concepts addressed: basic descriptive statistics (mean, standard deviation, inter / intra-group, histogram)
+TP session(3h)
+<br> Targeted group: master students (begginers in programming) 
+<br> Concepts addressed: basic descriptive statistics (mean, standard deviation, distribution, histogram, trends, correlation)
