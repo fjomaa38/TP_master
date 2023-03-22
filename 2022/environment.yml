@@ -1,31 +1,31 @@
-name: TP_master 2022
-# Not all libraries are used in this TP!
-# 
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - python=3.8.5
-  - imageio=2.16.1
-  - xarray=0.19.0
-  - pooch=1.5.2 # for xarray tutorial functions
-  - nc-time-axis=1.4.0 # to deal with some time axis
-  - statsmodels
-  - scipy
-  #- proplot=0.6.4
-  - matplotlib=3.2.0
-  - cartopy=0.17.0
-  # - xesmf=0.3.0 # regrid
-  - isort
-  - esmpy=8.0.1
-  #- black
-  #- nbresuse # to see RAM
-  - nodejs[version='>=10.0'] # for jupyterlab
-  - dask # for parallelization
-  - nb_conda_kernels # allow changing kernel in a notebook
-  - netcdf4
-  - jupyterlab_code_formatter
-  - jupyterlab
-  - jupyter
-  #- gcsfs # Google Cloud (for intake-esm)
+# name: TP_master 2022
+# # Not all libraries are used in this TP!
+# # 
+# channels:
+#   - conda-forge
+#   - defaults
+# dependencies:
+#   - python=3.8.5
+#   - imageio=2.16.1
+#   - xarray=0.19.0
+#   - pooch=1.5.2 # for xarray tutorial functions
+#   - nc-time-axis=1.4.0 # to deal with some time axis
+#   - statsmodels
+#   - scipy
+#   #- proplot=0.6.4
+#   - matplotlib=3.2.0
+#   - cartopy=0.17.0
+#   # - xesmf=0.3.0 # regrid
+#   - isort
+#   - esmpy=8.0.1
+#   #- black
+#   #- nbresuse # to see RAM
+#   - nodejs[version='>=10.0'] # for jupyterlab
+#   - dask # for parallelization
+#   - nb_conda_kernels # allow changing kernel in a notebook
+#   - netcdf4
+#   - jupyterlab_code_formatter
+#   - jupyterlab
+#   - jupyter
+#   #- gcsfs # Google Cloud (for intake-esm)
 
