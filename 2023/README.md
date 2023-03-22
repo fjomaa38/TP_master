@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fjomaa38/TP_master.git/main)
 ## Instrumentation and meteorology: Introduction to data analysis and python
 
-TP session(3h)
+TP session
 <br> Targeted group: master students (begginers in programming) 
 <br> Concepts addressed: basic descriptive statistics (mean, standard deviation, distribution, histogram, trends, correlation)
 
