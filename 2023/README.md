@@ -44,7 +44,7 @@ Calculate linear trends and their significance (according Student t-test) for da
 <br>Calculate the trend and its significance. Plot the trends.
 <br>What can you conclude about the the temporal changes of snow cover in Grenoble?
 
-*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [02_climate_variables.ipynb](02_climate_variables.ipynb).*
+*To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [introduction_to_data_analysis.ipynb](https://github.com/fjomaa38/TP_master/blob/main/2023/introduction_to_data_analysis.ipynb).*
 
 ## Environment
 
