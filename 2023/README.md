@@ -40,9 +40,9 @@ Calculate linear trends and their significance (according Student t-test) for da
 <br>What do you conclude about the relationship between these two variables and the influence of trends to the results.
 
 ### 4.  Analysis of the temporal evolution of snow in Grenoble.
->Indicate the annual snowy days (Temperature<0, and precipiataion>0) and plot the time series. 
+>Indicate the annual snowy days (Temperature<0, and precipitaion>0) and plot the time series. 
 <br>Calculate the trend and its significance. Plot the trends.
-<br>What can you conclude about the the temporal changes of snow cover in Grenoble?
+<br>What can you conclude about the temporal changes of snow cover in Grenoble?
 
 *To get started click on the Binder button (OR launch it on your personal machine if you installed the environment), then open the notebook: [introduction_to_data_analysis.ipynb](https://github.com/fjomaa38/TP_master/blob/main/2023/introduction_to_data_analysis.ipynb).*
 
